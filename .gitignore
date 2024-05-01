@@ -1,5 +1,0 @@
-# Exclude TOKEN and other important stuff
-.env
-
-# Exclude NodeJS modules
-node_modules
