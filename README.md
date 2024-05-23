@@ -5,4 +5,4 @@ LIVE is Minecraft Bedrock add-on project that I currently working on. It suppose
 Under development.
 
 # License
-[EULA](daniswastaken.github.io/eula)
+[EULA](https://daniswastaken.github.io/eula/)
