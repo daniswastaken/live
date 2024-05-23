@@ -1,8 +1,8 @@
-## About LIVE
+# About LIVE
 LIVE is Minecraft Bedrock add-on project that I currently working on. It supposed to bring a lot overhaul to the table.
 
-## Status
+# Status
 Under development.
 
-# License
+## License
 [EULA](https://daniswastaken.github.io/eula/)
